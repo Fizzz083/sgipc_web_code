@@ -1,0 +1,106 @@
+[
+    {
+        "rank": "rank",
+        "handle": "handle",
+        "rating": "display_rating",
+        "contest_count": "num_contests",
+        "rating_change": "last_change",
+        "last_contest": "last_contest_index"
+    },
+    {
+        "rank": "1",
+        "handle": "KuetEffervescent",
+        "rating": "1930",
+        "contest_count": "3",
+        "rating_change": "56",
+        "last_contest": "2"
+    },
+    {
+        "rank": "2",
+        "handle": "KUET_FALCONS",
+        "rating": "1702",
+        "contest_count": "3",
+        "rating_change": "81",
+        "last_contest": "2"
+    },
+    {
+        "rank": "3",
+        "handle": "KUET_BreakDown",
+        "rating": "1654",
+        "contest_count": "3",
+        "rating_change": "12",
+        "last_contest": "2"
+    },
+    {
+        "rank": "4",
+        "handle": "KUET_Blaziken",
+        "rating": "1566",
+        "contest_count": "3",
+        "rating_change": "135",
+        "last_contest": "2"
+    },
+    {
+        "rank": "5",
+        "handle": "KUET_Musashis",
+        "rating": "1501",
+        "contest_count": "3",
+        "rating_change": "43",
+        "last_contest": "2"
+    },
+    {
+        "rank": "6",
+        "handle": "KUET_BUGMAN",
+        "rating": "1391",
+        "contest_count": "3",
+        "rating_change": "53",
+        "last_contest": "2"
+    },
+    {
+        "rank": "7",
+        "handle": "trinityRaven",
+        "rating": "1273",
+        "contest_count": "1",
+        "rating_change": "1273",
+        "last_contest": "1"
+    },
+    {
+        "rank": "8",
+        "handle": "Team_Blackburn",
+        "rating": "1231",
+        "contest_count": "1",
+        "rating_change": "1231",
+        "last_contest": "2"
+    },
+    {
+        "rank": "9",
+        "handle": "Team_Phoenix",
+        "rating": "1179",
+        "contest_count": "3",
+        "rating_change": "65",
+        "last_contest": "2"
+    },
+    {
+        "rank": "10",
+        "handle": "Loop_Breakers",
+        "rating": "1043",
+        "contest_count": "1",
+        "rating_change": "1043",
+        "last_contest": "2"
+    },
+    {
+        "rank": "11",
+        "handle": "ShowStoppers",
+        "rating": "951",
+        "contest_count": "1",
+        "rating_change": "951",
+        "last_contest": "2"
+    },
+    {
+        "rank": "12",
+        "handle": "KUET_EXPLORERS",
+        "rating": "946",
+        "contest_count": "1",
+        "rating_change": "946",
+        "last_contest": "1"
+    }
+]

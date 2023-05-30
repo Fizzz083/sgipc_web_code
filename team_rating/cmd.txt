@@ -1,0 +1,1 @@
+cargo run --release --bin rate file: ../experiments/sgipc/mmr-fast-acc.json
